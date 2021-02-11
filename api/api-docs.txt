@@ -1,0 +1,27 @@
+https://github.com/dingo/api/wiki/API-Blueprint-Documentation
+
+/**
+ * User resource representation.
+ *
+ * @Resource("Users", uri="/users")
+ */
+class UserController extends Controller
+{
+
+}
+
+/**
+ * Register user
+ *
+ * Register a new user with a `username` and `password`.
+ *
+ * @Post("/")
+ * @Versions({"v1"})
+ * @Request({"username": "foo", "password": "bar"})
+ * @Response(200, body={"id": 10, "username": "foo"})
+ */
+ 
+php artisan api:docs --name "Reno Api" --use-version v1 --output-file documentation.md
+aglio -i documentation.md -o output.html
+
+

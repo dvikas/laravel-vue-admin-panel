@@ -1,0 +1,87 @@
+https://www.flaticon.com/free-icon/cone_684990
+npm install github:wffranco/vue-strap --save
+Installed
+
+    >npm install vee-validate --save
+
+
+    ////////////////////////////////////////
+    For Server API side used
+        [https://github.com/francescomalatesta/laravel-api-boilerplate-jwt]
+    as boiler plate project.
+
+
+
+8 Feb
+    https://www.sitepoint.com/how-to-build-an-api-only-jwt-powered-laravel-app/
+
+    ***********************************************
+    https://github.com/joselfonseca/laravel-api
+    ***********************************************
+
+    https://github.com/jeremykenedy/laravel-auth
+
+    https://github.com/neoighodaro/laravel-passport-demo
+
+    https://github.com/saqueib/qtube
+    https://www.cloudways.com/blog/rest-api-laravel-passport-authentication/
+
+    php artisan passport:client --password
+
+///////////////////////////////////////////////////////////////////////////////
+
+TYpe a Head
+https://github.com/pespantelis/vue-typeahead
+https://github.com/trionfo1993/vue2-typeahead => based on pespantelis
+
+https://jsfiddle.net/LukaszWiktor/kzadgqv9/ ==> VueStrap
+
+https://yuche.github.io/vue-strap/#typeahead
+https://github.com/yuche/vue-strap
+
+https://github.com/wffranco/vue-strap
+
+
+Vue Forms
+https://vuejs.org/v2/guide/forms.html
+http://vuejs.creative-tim.com/vue-form-wizard/#/
+
+Search Place and address on Google Map
+https://github.com/Ridermansb/vue-gmaps
+https://gocanto.github.io/google-autocomplete/ -> Google Autocomplete Componet
+------------------------------------------------------------
+http://xkjyeah.github.io/vue-google-maps/ ****
+https://www.npmjs.com/package/vue2-google-maps
+-----------------------------------------------
+https://www.npmjs.com/package/google-autocomplete-vue
+
+
+=================GOOD PROJECT WITH VUE AUTH LARAVEL PASSPORT ===================
+     https://github.com/vedmant/jogging-time
+
+
+ ===================== COLOR OF SITE HEADER ====================================
+ https://laravel.io/forum/laravel-passport-vue-check-user-authentication
+  ===================== COLOR OF SITE HEADER ====================================
+
+VUE ACL
+https://github.com/sjerrys/vuetest/blob/master/src/components/Login.vue
+https://forum-archive.vuejs.org/topic/39/starter-application-with-jwt-auth-sample-backend-api/2
+https://github.com/dgrubelic/vue-authenticate
+https://developer.okta.com/blog/2017/09/14/lazy-developers-guide-to-auth-with-vue
+https://medium.com/@manojkumar_88220/role-based-authentication-using-vue-js-2-f54e18498019
+
+==================================================================
+
+14 feb
+https://webpack.js.org/configuration/watch/ FOR WEBPACK WATCH
+
+renoapi@ade......com / renofront
+1...21..q
+
+
+WAIT FOR RESPONSE
+https://stackoverflow.com/questions/42195971/how-can-i-get-response-of-this-store-dispatch-on-the-vue-js-2
+
+{{ $auth.user().username }}
+console.log(this.$auth.redirect());
